@@ -36,8 +36,8 @@ Versão 1.1 - Refatoração de código e melhorias (06/11/24).
 
 🖼️ Modelo De Tela
 
-![Captura de tela 2024-11-04 203749](https://github.com/user-attachments/assets/8c3e97e7-3b6a-4265-84d5-ec01120b3b3a)
-![Captura de tela 2024-11-04 203833](https://github.com/user-attachments/assets/4b0b8a20-1ff7-47c3-9d10-09cdb8cf99a7)
+![imagem_2024-11-05_193957140](https://github.com/user-attachments/assets/3a388edd-9903-4f7e-805a-9fcd07c060bb)
+
 
 ✒ Autor
 Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - GERENCIAMENTO FRUTAS (COMMAND LINE INTERFACE) - AC2
