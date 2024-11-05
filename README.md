@@ -1,18 +1,43 @@
-## Getting Started
+# Gerenciamento Frutas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é uma aplicação Java para gerenciamento de frutas usando a estrutura de dados `HashSet`. O programa oferece um menu interativo que permite adicionar, listar, remover e verificar a presença de frutas, tudo em uma interface de linha de comando.
 
-## Folder Structure
+## 🚀 Objetivo:
+O objetivo deste projeto é:
 
-The workspace contains two folders by default, where:
+1. Criar uma aplicação em Java que gerencie frutas, evitando duplicatas através do uso de `HashSet`.
+2. Implementar um menu de opções para que o usuário possa adicionar, listar, remover e verificar frutas.
+3. Garantir uma experiência de usuário amigável, lidando com possíveis entradas inválidas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📋 Pré-requisitos
+Para rodar este projeto, você precisará das seguintes ferramentas:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java JDK 23
+- Visual Studio Code
+- Git
+- GitHub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🔧 Instalação
 
-## Dependency Management
+Clone o repositório no  computador
+Abra o projeto no Visual Studio Code
+Compile e execute o projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🛠 Construído com
+Ferramentas e tecnologias utilizadas no desenvolvimento:
+
+Java JDK 23 
+Visual Studio Code - IDE 
+Git
+
+📌 Versão
+Versão 1.0 - Implementação inicial do projeto com as classes principais.
+Versão 1.1 - Refatoração de código e melhorias (06/11/24).
+
+🖼️ Modelo De Tela
+
+![Captura de tela 2024-11-04 203749](https://github.com/user-attachments/assets/8c3e97e7-3b6a-4265-84d5-ec01120b3b3a)
+![Captura de tela 2024-11-04 203833](https://github.com/user-attachments/assets/4b0b8a20-1ff7-47c3-9d10-09cdb8cf99a7)
+
+✒ Autor
+Henrick Delli Colli Honorato Silva - Atividade individual - Lista de Exercícios AC2 - GERENCIAMENTO FRUTAS (COMMAND LINE INTERFACE) - AC2
